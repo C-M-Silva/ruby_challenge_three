@@ -1,6 +1,6 @@
 class PasswordManager2
     # The Password Manager 2 class creates a hash that stores passwords for different services and methods to access, add, remove,
-    # and update the stored passwords.
+    # and update the stored passwords. :)
 
     # The Initialize method sets up an instance variable, @password_storage, which stores the service and passwords as a hash
     def initialize
